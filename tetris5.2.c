@@ -1,11 +1,5 @@
 /*
 CS103 FINAL PROJECT
-GROUP 6
-    Atizado, Sean Antonio+
-    Munoz, Jose Amiele
-    Paderna, Michael Jerome 
-    Salting, Marvin Andrei 
-    Suhi-an, Eury Marc
 */
 
 #include <stdio.h>
@@ -2142,4 +2136,5 @@ int main(int argc, char *argv[]) {
 //gcc tetris5.2.c -o TETRIS_REMIX -I C:/msys64/mingw64/include/ncurses -L C:/msys64/mingw64/lib -lncurses  -DNCURSES_STATIC -I C:/msys64/mingw64/include/SDL2 -LC:/msys64/mingw64/lib -lSDL2 -lSDL2_mixer
 
 //or
+
 //gcc tetris5.2.c -o TETRIS_REMIX -I C:/msys64/mingw64/include -L C:/msys64/mingw64/lib -lncurses -DNCURSES_STATIC -lSDL2 -lSDL2_mixer
